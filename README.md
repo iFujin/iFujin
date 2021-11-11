@@ -1,4 +1,4 @@
-### Hola i'm Fujin![image](https://user-images.githubusercontent.com/45332370/141327928-f5f9d556-d3f6-4541-8ef3-b4b440cea113.png)
+### Hola i'm Fujin ![wen](https://user-images.githubusercontent.com/45332370/141328040-5ae267ad-61d1-43df-9b41-3dd4224ae707.gif)
 
 - 🔭 I’m currently working on Todo app
 - 🌱 I’m currently learning React,MongoDB
