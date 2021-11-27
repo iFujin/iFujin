@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on nothing atm
 - 🌱 I’m currently learning sql
 - 🤔 I’m looking for help with hmm...lemme think...😝
-- 💬 Ask me about Python 😎
+- 💬 Ask me about Python,React
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm Crazy 😝 
 
