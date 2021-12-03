@@ -1,9 +1,9 @@
 ### Hola i'm Fujin 👋
 
-- 🔭 I’m currently working on nothing atm
+- 🔭 I’m currently working on covidtracker
 - 🌱 I’m currently learning sql
 - 🤔 I’m looking for help with hmm...lemme think...😝
-- 💬 Ask me about Python,React
+- 💬 Ask me about Python,Reactjs 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm Crazy 😝 
 
