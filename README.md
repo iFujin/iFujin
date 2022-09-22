@@ -1,4 +1,4 @@
-### Hola i'm Fujin 👋
+### Hola 👋
 
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning Angular
